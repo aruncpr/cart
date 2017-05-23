@@ -1,0 +1,15 @@
+---------- Date: 2017-05-18 14:09:55 ~ IP : ::1 ----------
+REQUEST URI : /opencart/arc/admin/index.php
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart\arc\vqmod/xml/vqmod_macro_dashboard.xml
+   id        : Macro Dashboard
+   version   : 1.1.0
+   vqmver    : 2.2.0
+   author    : Media6 technologies - www.media6technologies.com
+
+File Name    : admin/controller/common/header.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->data['home'] = $this->url->link('common/dashboard', 'token=' . $this->session->data['token'], 'SSL');
+
+----------------------------------------------------------------------
+
+

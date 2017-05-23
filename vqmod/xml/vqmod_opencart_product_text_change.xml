@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modification>
+    <id>VQMOD Admin theme customization</id>
+    <version>1.4.x and above</version>
+    <vqmver required="true">2.6.0</vqmver>
+    <author>Arun</author>
+
+    <file name="admin/view/template/common/column_left.tpl">
+        <operation error="skip" info="For non OCMod includes/requires">
+            <search position="after" regex="true"><![CDATA[<span>Dashboard</span>]]></search>
+            <add><![CDATA[<span>Yes My Bwoy</span>]]></add>
+        </operation>
+    </file>
+</modification>

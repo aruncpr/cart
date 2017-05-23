@@ -1,0 +1,15 @@
+---------- Date: 2017-05-19 12:28:47 ~ IP : ::1 ----------
+REQUEST URI : /opencart/arc/admin/index.php?route=common/dashboard&token=dmZ2DaeNbfq1mlFp5wILLVfPw3GGGIgP
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart\arc\vqmod/xml/vqmod_opencart_product_text_change.xml
+   id        : My first vqmod xml
+   version   : 0.8
+   vqmver    : 2.4
+   author    : Sankar
+
+File Name    : admin/view/template/common/column_left.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <span>Dashboard</span>
+
+----------------------------------------------------------------------
+
+
